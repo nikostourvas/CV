@@ -1,3 +1,3 @@
 # CV
 Personal academic CV in greek.
-compiles with XeLateX
+Compiles with XeLateX
